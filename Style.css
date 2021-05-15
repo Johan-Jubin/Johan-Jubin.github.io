@@ -19,13 +19,13 @@ body{
     justify-content: center;
     align-items: center;
     background:hsl(185, 75%, 39%);
-    background-image: url(/images/bg-pattern-bottom.svg),url(/images/bg-pattern-top.svg);
+    background-image: url(bg-pattern-bottom.svg),url(bg-pattern-top.svg);
 }
 .profile-base{
     width:460px;
     height:500px;
     background-color:white;
-    background-image: url(/images/bg-pattern-card.svg);
+    background-image: url(bg-pattern-card.svg);
     border-radius:20px;
     position:relative;
 
